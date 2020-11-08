@@ -13,8 +13,8 @@
 
 
 <table>
-<tr><th>![Insta icon](./img/linkedin.png)</th><th>![Gmail](./img/gmail%20icon.png)</th></tr>
-<tr><td>[Kanat Akmatov](https://www.linkedin.com/in/kanat-akmatov-1454b3177/)</td><td>akmatov.96.kanat@gmail.com</td></tr>
+<tr><th><img src="https://i.ibb.co/1079MtZ/linkedin.png" alt=""></th><th><img src="https://i.ibb.co/BGmMG8P/gmail-icon.png" alt=""></th></tr>
+<tr><td><a href="https://www.linkedin.com/in/kanat-akmatov-1454b3177/">Kanat Akmatov</a></td><td>akmatov.96.kanat@gmail.com</td></tr>
 </table>
 
 
