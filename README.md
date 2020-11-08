@@ -79,7 +79,7 @@ Soft skills:
 >
 > [Bootstrap Example](https://kanatakmatov.github.io/bootstrap-example/)
 >
-> [My first project](https://kanatakmatov.github.io/my-first-maket/)
+> [My first](https://kanatakmatov.github.io/my-first-maket/)
 ---
 ### *Education:*
 
