@@ -87,8 +87,6 @@ Soft skills:
 
 ### Portfolio:
 
->[My first](https://kanatakmatov.github.io/my-first-maket/)
->
 > [My resume](https://kanatakmatov.github.io/my-resume/) 
 >
 > [Grocery Shop](https://grocery--shop.herokuapp.com/)
@@ -102,6 +100,8 @@ Soft skills:
 > [MartaUp-markup](https://kanatakmatov.github.io/marta-markup/)
 >
 > [Bootstrap Example](https://kanatakmatov.github.io/bootstrap-example/)
+>
+> [My first project](https://kanatakmatov.github.io/my-first-maket/)
 
 
 
