@@ -13,8 +13,8 @@
 
 
 <table>
-<tr><th>Test Columns</th><th>Header 2</th></tr>
-<tr><td>Test Value</td><td>Test 2</td></tr>
+<tr><th>![Insta icon](./img/linkedin.png)</th><th>![Gmail](./img/gmail%20icon.png)</th></tr>
+<tr><td>[Kanat Akmatov](https://www.linkedin.com/in/kanat-akmatov-1454b3177/)</td><td>akmatov.96.kanat@gmail.com</td></tr>
 </table>
 
 
