@@ -77,6 +77,7 @@ Soft skills:
         $('.burger').removeClass('show-menu');
         $('.top-menu') .removeClass('show')
     }); ```
+   
 ---
 
 
@@ -98,6 +99,9 @@ Soft skills:
 > [Bootstrap Example](https://kanatakmatov.github.io/bootstrap-example/)
 >
 > [My first](https://kanatakmatov.github.io/my-first-maket/)
+
+
+
 ---
 
 
@@ -109,6 +113,9 @@ Soft skills:
 - [x] Front School (YouTube channel about Front-end)
 - [x] DarkCode (YouTube channel about Front-end)
 - [x] SkillBox (Online courses of programming)
+
+
+
 ---
 
 
