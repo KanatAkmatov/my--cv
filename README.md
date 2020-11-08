@@ -6,15 +6,10 @@
 
 * ### _You can find me in:_
 
-![Insta icon](./img/linkedin.png) | ![Gmail](./img/gmail%20icon.png) | ![Telegram](./img/telegram%20icon.png) | ![Cellphone](./img/cellphone-icon.png) | 
------------- | ------------- | ------------- | -------------
-[Kanat Akmatov](https://www.linkedin.com/in/kanat-akmatov-1454b3177/) | [akmatov.96.kanat@gmail.com](https://www.google.com/intl/ru/gmail/about/#) | [@KanatAkmatov](https://t.me/KanatAkmatov) | +996558319126
----
-
 
 <table>
-<tr><th><img src="https://i.ibb.co/1079MtZ/linkedin.png" alt=""></th><th><img src="https://i.ibb.co/BGmMG8P/gmail-icon.png" alt=""></th></tr>
-<tr><td><a href="https://www.linkedin.com/in/kanat-akmatov-1454b3177/">Kanat Akmatov</a></td><td>akmatov.96.kanat@gmail.com</td></tr>
+<tr><th><img src="./img/linkedin.png" alt=""></th><th><img src="./img/gmail%20icon.png" alt=""></th><th><img src="./img/telegram%20icon.png" alt=""></th><th><img src="./img/cellphone-icon.png" alt=""></th></tr>
+<tr><td><a href="https://www.linkedin.com/in/kanat-akmatov-1454b3177/">Kanat Akmatov</a></td><td>akmatov.96.kanat@gmail.com</td><td><a href="https://t.me/KanatAkmatov">@KanatAkmatov</a></td><td>+996558319126</td></tr>
 </table>
 
 
