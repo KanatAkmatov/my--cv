@@ -2,12 +2,17 @@
 ![ME](./img/my-pic.jpg)
 ## I am **Kanat Akmatov**
 
+
+
 * ### _You can find me in:_
 
 ![Insta icon](./img/linkedin.png) | ![Gmail](./img/gmail%20icon.png) | ![Telegram](./img/telegram%20icon.png) | ![Cellphone](./img/cellphone-icon.png) | 
 ------------ | ------------- | ------------- | -------------
 [Kanat Akmatov](https://www.linkedin.com/in/kanat-akmatov-1454b3177/) | [akmatov.96.kanat@gmail.com](https://www.google.com/intl/ru/gmail/about/#) | [@KanatAkmatov](https://t.me/KanatAkmatov) | +996558319126
 ---
+
+
+
 * ### About me:
 ---
 > I am passionate about Web Development and
@@ -19,6 +24,8 @@
 > ‘other technologies. Mainly | use JavaScript,
 > React, Redux.
 ---
+
+
 
 * ### Hard skills:
 ---
@@ -34,6 +41,9 @@
     * Gulp / npm or yarn / command line tools
     
 ---
+
+
+
 Soft skills:
 -
     1. Communication and teamwork 
@@ -43,6 +53,8 @@ Soft skills:
     5. Time management
 ---    
 
+
+
 * Extra skills:
     * UI/UX
     * SMM 
@@ -51,6 +63,9 @@ Soft skills:
     * Figam
     * CorelDRAW
 ---
+
+
+
 ### _Code example:_
     ``` javascript
     $('.burger').on('click', ()=> {
@@ -63,6 +78,9 @@ Soft skills:
         $('.top-menu') .removeClass('show')
     }); ```
 ---
+
+
+
 ### Portfolio:
 
 > [My resume](https://kanatakmatov.github.io/my-resume/) 
@@ -81,6 +99,9 @@ Soft skills:
 >
 > [My first](https://kanatakmatov.github.io/my-first-maket/)
 ---
+
+
+
 ### *Education:*
 
 - [x] IT-Run (Programming courses)
@@ -89,6 +110,9 @@ Soft skills:
 - [x] DarkCode (YouTube channel about Front-end)
 - [x] SkillBox (Online courses of programming)
 ---
+
+
+
 ### __English:__
 
 - [x] **Upper-intermediate/advanced**
