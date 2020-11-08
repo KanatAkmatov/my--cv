@@ -12,9 +12,12 @@
 ---
 
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
+<table>
+<tr><th>Test Columns</th><th>Header 2</th></tr>
+<tr><td>Test Value</td><td>Test 2</td></tr>
+</table>
+
+
 ---
 
 
